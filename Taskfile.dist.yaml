@@ -43,8 +43,8 @@ tasks:
         trunk
         check
         {{ .CLI_ARGS }}
-  clean-docs:
-    desc: Clean docs
+  remove-docs-node-modules:
+    desc: Clean docs node_modules
     dir: docs
     cmds:
       - >
