@@ -4,9 +4,6 @@
 # Production
 /build
 
-# Test
-/.tmp
-
 # Generated files
 .docusaurus
 .cache-loader
@@ -19,3 +16,6 @@
 .env.production.local
 
 npm-debug.log*
+
+# Test
+/.tmp
