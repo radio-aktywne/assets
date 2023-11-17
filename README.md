@@ -23,5 +23,5 @@ More in-depth documentation can be found
 
 ## 💻 Development
 
-Read more about how to contribute and develop the project
+Read more about how to develop the project
 [here](https://github.com/radio-aktywne/assets/blob/main/CONTRIBUTING.md).
