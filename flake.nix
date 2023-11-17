@@ -87,6 +87,7 @@
             name = "lint";
 
             packages = [
+              node
               task
               coreutils
               trunk
