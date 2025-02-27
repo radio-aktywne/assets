@@ -2,7 +2,7 @@
 
 <div align="center">
 
-assets 🎨
+Assets 🎨
 
 [![Lint](https://github.com/radio-aktywne/assets/actions/workflows/lint.yaml/badge.svg)](https://github.com/radio-aktywne/assets/actions/workflows/lint.yaml)
 [![Docs](https://github.com/radio-aktywne/assets/actions/workflows/docs.yaml/badge.svg)](https://github.com/radio-aktywne/assets/actions/workflows/docs.yaml)

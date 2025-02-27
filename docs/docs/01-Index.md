@@ -5,7 +5,7 @@ title: Index
 
 # assets
 
-assets 🎨
+Assets 🎨
 
 ## 💡 About
 
