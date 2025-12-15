@@ -5,7 +5,6 @@
 Assets 🎨
 
 [![Lint](https://github.com/radio-aktywne/assets/actions/workflows/lint.yaml/badge.svg)](https://github.com/radio-aktywne/assets/actions/workflows/lint.yaml)
-[![Docs](https://github.com/radio-aktywne/assets/actions/workflows/docs.yaml/badge.svg)](https://github.com/radio-aktywne/assets/actions/workflows/docs.yaml)
 
 </div>
 
@@ -13,13 +12,8 @@ Assets 🎨
 
 ## 💡 About
 
-This repository contains various assets used in
+`assets` contains various assets used in
 [`radio-aktywne`](https://github.com/radio-aktywne) projects.
-
-## 📄 Further Reading
-
-More in-depth documentation can be found
-[here](https://radio-aktywne.github.io/assets).
 
 ## 💻 Development
 
